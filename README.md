@@ -25,9 +25,6 @@ Developed By:P.Siva Naga Nithin
 Reg.No:212221240037
 ```
 ```
-DEVELOPED BY : SOWMIYA N
-REGISTER NO : 212221230106
-
 #include <stdio.h>
 #include <sys/time.h>
 
